@@ -5,6 +5,7 @@ working_directory @dir
 
 timeout 300
 listen "#{@dir}tmp/sock.sock"
+#listen 4567
 
 pid "#{@dir}tmp/pids/unicorn.pid" #pidを保存するファイル
 
