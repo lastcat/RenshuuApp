@@ -1,4 +1,4 @@
-@dir = "/home/lastcat/Documents/benchapp/"
+@dir = "/home/lastcat/download/RenshuuApp/"
 
 worker_processes 2 # CPUのコア数に揃える
 working_directory @dir
